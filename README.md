@@ -1,7 +1,5 @@
 # NBAShotTracker
 
-[View Live Site Here](https://ebaek.github.io/NBAShotTracker/)
----
 
 ![overview image with basketball plot, selectors, and search](screenshots/overview.png)
 
